@@ -1,0 +1,17 @@
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\myfile.txt
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.exe
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.deps.json
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.runtimeconfig.json
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.runtimeconfig.dev.json
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.dll
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\ref\AsyncProgramming.Demo02.dll
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\bin\Debug\net5.0\AsyncProgramming.Demo02.pdb
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.csproj.AssemblyReference.cache
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.AssemblyInfoInputs.cache
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.AssemblyInfo.cs
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.csproj.CoreCompileInputs.cache
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.dll
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\ref\AsyncProgramming.Demo02.dll
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.pdb
+D:\Learning_Repos\C#_Async_Programming_by_Rainer_Stropek\AsyncProgramming\AsyncProgramming.Demo02\obj\Debug\net5.0\AsyncProgramming.Demo02.genruntimeconfig.cache

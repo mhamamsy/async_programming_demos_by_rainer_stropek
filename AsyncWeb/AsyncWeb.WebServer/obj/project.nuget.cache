@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3izCbCvjL/ReEm/SYUQcU/gQMcbybGtbOCvBcJjX5wjZUH8Yg/CXSVitQ00bLiSJFP9eQsJTqu+IGW2uaj45g==",
+  "success": true,
+  "projectFilePath": "D:\\Learning_Repos\\C#_Async_Programming_by_Rainer_Stropek\\AsyncWeb\\AsyncWeb.WebServer\\AsyncWeb.WebServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20100\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
